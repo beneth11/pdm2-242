@@ -27,11 +27,11 @@ class _ExamplePageState extends State<ExamplePage> {
   final List<String> _winners = [];
   final TextEditingController _textController = TextEditingController();
   List<String> items = [
-    'Obi-Wan Kenobi',
-    'Han Solo',
-    'Luke Skywalker',
-    'Darth Vader',
-    'Ahsoka Tano',
+    'Black Rabbit',
+    'Leafy',
+    'Grimm',
+    'Jabberwock',
+    'Jubjub',
   ];
 
   void _addItem() {
