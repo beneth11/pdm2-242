@@ -34,14 +34,14 @@ class _ExamplePageState extends State<ExamplePage> {
   @override
   Widget build(BuildContext context) {
     final items = <String>[
-      'Grogu',
-      'Mace Windu',
-      'Obi-Wan Kenobi',
-      'Han Solo',
-      'Luke Skywalker',
-      'Darth Vader',
-      'Yoda',
-      'Ahsoka Tano',
+      'Grimm',
+      'Jabberwock',
+      'Jubjub',
+      'Leafy',
+      'Mock Turtle',
+      'Griffy',
+      'Hatta Hatter',
+      'Node',
     ];
 
     return Scaffold(
